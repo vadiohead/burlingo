@@ -12,7 +12,6 @@ English 🇬🇧, Буряад-Монгол 🇲🇳, Русский 🇷🇺
 
 An interactive Android application designed to teach the Buryat language through
 engaging tasks and challenges - inspired by apps like Duolingo. Built with Java and Android Studio.
-Raises awareness about real world problem - extinction of Buryat language.
 
 ## Features
 
